@@ -411,7 +411,7 @@ Optional:
 
 Example:
 
-**Sanket ❤️ Muichiro**
+**Sanket ❤️ Shinobu**
 
 14 February 2027  
 Dehradun, Uttarakhand
@@ -913,7 +913,7 @@ Each wedding should have a hosted wedding website.
 
 Example:
 
-`makemymarriage.com/w/sanket-Muichiro`
+`makemymarriage.com/w/sanket-shinobu`
 
 The wedding website is different from the private guest invitation.
 
@@ -1046,7 +1046,7 @@ Example printed message:
 
 **Share the Memories 📸**
 
-Scan to upload and view photos from Sanket & Muichiro's wedding.
+Scan to upload and view photos from Sanket & shinobu's wedding.
 
 Wedding Members should be able to:
 
